@@ -2,7 +2,7 @@
 Ikhya Ulummuddin (20081010120)
 ### Pendahuluan
 **Latar Belakang**  
-xasasa  
+Performa seorang mahasiswa dapat dipengaruhi oleh berbagai faktor, salah satunya dalah hasil nilai akademis. Faktor tersebut dapat membantu institusi pendidikan dalam mengambil langkah-langkah yang tepat agar dapat meningkatkan hasil pendidikan dengan cara menganalisis dan memprediksi performa mahasiswanya. Namun, banyaknya data dapat memakan banyak waktu dan sumber daya untuk melakukan proses aktivitas tersebut. Oleh karena itu, dibutuhkanlah program machine learning dengan model regresi terbaik untuk analisis dan prediksi performa mahasiswa. Ada beberapa model regresi yang dianalisis dan hanya digunakan salah satu dari yang terbaik, yaitu Linear regression, Lasso, Ridge, K-Neighbors, SVR, Decision tree, Random forest, dan Extra trees.
 
 **Tujuan**  
 Membuat program machine learning dengan model regresi terbaik untuk memprediksi performa mahasiswa kedepannya berdasarkan dataset yang tersedia.
