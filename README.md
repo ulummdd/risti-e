@@ -15,10 +15,21 @@ Membuat program machine learning dengan model regresi terbaik untuk memprediksi 
 ### Tinjauan Pustaka
 
 ### Metode Penelitian
+**Dataset**  
+Dataset yang digunakan dapat diakses melalui tautan sebagai berikut.  
+https://docs.google.com/spreadsheets/d/1UZ_HSxKu2Bgppq9hYts71o8H0jlnbeBoQlI8Tm1AA7Y/edit?usp=sharing  
+
+**Analisis dan preprocessing data**  
+
+**Enkoding data**  
+
+**Training model**  
+
+**Evaluasi model**  
+
+**Pengujian prediksi model**  
 
 ### Hasil
-**Dataset**  
-Dataset yang digunakan dapat diakses melalui tautan sebagai berikut.
 
 ### Penutup
 **Kesimpulan**  
