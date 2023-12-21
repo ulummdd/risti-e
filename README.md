@@ -13,6 +13,11 @@ Membuat program machine learning dengan model regresi terbaik untuk memprediksi 
 3. Bagaimana cara memilih model regresi terbaik untuk memprediksi performa mahasiswa kedepannya menggunakan dataset yang tersedia.
 
 ### Tinjauan Pustaka
+**Model regresi**  
+
+**Metrik pengujian**  
+
+**Prediksi performa**  
 
 ### Metode Penelitian
 **Dataset**  
