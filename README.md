@@ -30,6 +30,13 @@ https://docs.google.com/spreadsheets/d/1UZ_HSxKu2Bgppq9hYts71o8H0jlnbeBoQlI8Tm1A
 **Pengujian prediksi model**  
 
 ### Hasil
+**Distribusi data**  
+
+**Korelasi antar atribut**  
+
+**Metrik pengujian model**  
+
+**Prediktif model**  
 
 ### Penutup
 **Kesimpulan**  
