@@ -1,4 +1,4 @@
-## Analisis dan Prediksi Performa Mahasiswa Dengan Model Regresi Terbaik
+## Analisis dan Prediksi Performa Mahasiswa Menggunakan Model Regresi Terbaik
 Ikhya Ulummuddin (20081010120)
 ### Pendahuluan
 **Latar Belakang**  
@@ -14,35 +14,51 @@ Membuat program machine learning dengan model regresi terbaik untuk memprediksi 
 
 ### Tinjauan Pustaka
 **Model regresi**  
-
-**Metrik pengujian**  
+Model regresi merupakan teknik statistik yang befungsi dalam memahami hubungan antar satu atau banyak variabel prediktor dengan hasil prediksi. Ada beberapa jenis model regresi yang dapat digunakan untuk memprediksi sesuatu, seperti regresi linear, non-linier, dan logistik. Setiap jenis model regresi memiliki cara dan tipe prediksi masing-masing, tergantung dengan data yang ingin diprediksi.
 
 **Prediksi performa**  
+Performa baik dari setiap mahasiswa di dalam kampus sangat diperlukan agar mendapatkan hasil yang memuaskan. Tidak sedikit kampus yang ingin memprediksi performa para mahasiswanya untuk mengetahui kebutuhan apa yang harus dipenuhi. Ada beberapa faktor yang memengaruhi performa dari seorang mahasiswa, mulai dari latar belakang keluarga, motivasi, dan keterlibatan belajar.
 
 ### Metode Penelitian
 **Dataset**  
 Dataset yang digunakan dapat diakses melalui tautan sebagai berikut.  
 https://docs.google.com/spreadsheets/d/1UZ_HSxKu2Bgppq9hYts71o8H0jlnbeBoQlI8Tm1AA7Y/edit?usp=sharing  
 
-**Analisis dan preprocessing data**  
+**Deskripsi data**  
+Mengecek data yang kosong dan statistik deskriptif dari dataset.  
 
-**Enkoding data**  
+**Preprocessing data**  
+Mengubah data kategorikal di dalam kolom menjadi numerik atau meng-encode-kan data agar bisa dilakukan proses selanjutnya.  
 
 **Training model**  
+Menggunakan beberapa model algoritma regresi dari scikit-learn, yaitu Linear regression, Lasso, Ridge, K-Neighbors, SVR, Decision tree, Random forest, dan Extra trees serta dievaluasi menggunakan metrik skor R2, Mean Absolute Error (MAE), dan Mean Squared Error (MSE). Hasil evaluasi model terbaik akan digunakan sebagai alat prediksi performa mahasiswa.
 
-**Evaluasi model**  
-
-**Pengujian prediksi model**  
+**Prediksi data**  
+Prediksi IPK melalui data baru yang telah dimasukkan dan di-encode menggunakan model terbaik yang telah dievaluasi sebelumnya.  
 
 ### Hasil
 **Distribusi data**  
+- Data kategorikal  
+![alt text](https://github.com/ulummdd/risti-e/blob/main/img/distrubusi-data-kategorikal.png?raw=true)
+- Data numerikal  
+![alt text](https://github.com/ulummdd/risti-e/blob/main/img/distrubusi-data-numerikal.png?raw=true)
 
-**Korelasi antar atribut**  
+**Evaluasi model**  
+```
+Evaluasi model Ridge():
 
-**Metrik pengujian model**  
+Skor R2:
+0.6042267438633778
 
-**Prediktif model**  
+Mean Absolute Error (MEA):
+0.3729555533933517
+
+Mean Squared Error (MSE):
+0.21257139896400434
+```
+
+**Hasil prediksi**  
+![alt text](https://github.com/ulummdd/risti-e/blob/main/img/hasil-prediksi.png?raw=true)
 
 ### Penutup
 **Kesimpulan**  
-**Referensi**  
