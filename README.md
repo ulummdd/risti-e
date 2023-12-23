@@ -58,7 +58,15 @@ Mean Squared Error (MSE):
 ```
 
 **Hasil prediksi**  
+Data yang dimasukkan sebagai berikut.  
+1. Jenis kelamin: Lelaki (0)
+2. Jalur masuk: SBMPTN KIP (0)
+3. Jenis tempat tinggal: Bersama orang tua (1)
+4. Pendidikan terakhir orang tua: Belum pernah kuliah (0)
+5. Status UKM: Ikut (0)
+6. Absensi: 85%  
 ![alt text](https://github.com/ulummdd/risti-e/blob/main/img/hasil-prediksi.png?raw=true)
 
 ### Penutup
 **Kesimpulan**  
+Berdasarkan hasil penelitian, prediksi performa mahasiswa berjalan dengan baik meskipun masih dibilang kurang akurat. Hasil prediksi yang kurang akurat disebabkan hasil evaluasi model yang masih menunjukkan di bawah rata-rata. Hasil evaluasi model regresi yang kurang akurat menunjukkan hasil prediksi yang bias. Ada beberapa hal yang perlu diperhatikan lagi, seperti kualitas data, model, dan metrik pengujian yang digunakan. Oleh karena itu, diperlukan perbaikan lagi dari beberapa faktor tersebut kedepannya. Banyak hal yang dipelajari dari penelitian yang telah dilakukan dan akan belajar lebih baik lagi kedepannya.
